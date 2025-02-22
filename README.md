@@ -1,5 +1,5 @@
 
-
+<!DOCTYPE html>
 <html ⚡ lang="id" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 <head>
   <meta charset="UTF-8">
@@ -247,7 +247,7 @@
 
         <a href="#">Kontak</a>
       </nav>
-      <a href="#" class="cta-button"><i class="fas fa-envelope"></i>Seputar Asian Foods</a>
+      <a href="#" class="cta-button"><i class="fas fa-envelope"></i>Seputar Kampar Kanan News</a>
     </header>
 
     <!-- Hero Section -->
@@ -264,8 +264,8 @@
     <section class="section">
       <div>
 
-        <h1>Kampar Kanan News: Berita Seputar Asian Foods Terbaik</h1>
-        <p>Temukan berita eksklusif dan terpercaya Seputar Asian Foods hanya di sini.</p>
+        <h1>Kampar Kanan News: Berita Seputar Kampar Kanan News Terbaik</h1>
+        <p>Temukan berita eksklusif dan terpercaya Seputar Kampar Kanan News hanya di sini.</p>
       </section>
       
       <section class="section">
@@ -297,8 +297,8 @@
     <div class="container">
       <div class="footer-content">
         <div>
-          <h4>Berita Seputar Asian Foods</h4>
-          <p>Berita Terkini & Terpercaya Mengenai Asian Foods</p>
+          <h4>Berita Seputar Kampar Kanan News</h4>
+          <p>Berita Terkini & Terpercaya Mengenai Kampar Kanan News</p>
         </div>
         <div>
           <h4>Tautan Cepat</h4>
